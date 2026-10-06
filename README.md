@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Rohit Kumar
+#Hi,I'm Rohit Kumar
 **Aspiring AI Engineer | AI Agents | Generative AI | LLMs | RAG | LangChain | LangGraph | Python | FastAPI | Full-Stack Developer | AI Tools Explorer **
 
 Email Me 👉 ✉️ **rohitsuhag2908@gmail.com** For Collaboration/Project or Anything Else. 😊😊
